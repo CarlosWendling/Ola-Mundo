@@ -1,0 +1,13 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+body {
+    background-color: rgb(154, 24, 156);
+}
+
+main {
+    background-color: white;
+    box-shadow: 5px 5px 10px black;
+}
