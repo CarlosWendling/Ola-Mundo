@@ -4,12 +4,11 @@
 }
 
 body {
-    background-color: rgb(154, 24, 156);
+    background-color: blueviolet;
 }
 
 main {
     background-color: white;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.352);
-    margin: auto;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.379);
     width: 600px;
 }
